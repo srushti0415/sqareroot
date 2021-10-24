@@ -12,4 +12,4 @@ function squareroot(a) {
         a++;
     }
 }
-squareroot(95)
+squareroot(4)
