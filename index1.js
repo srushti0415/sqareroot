@@ -5,6 +5,7 @@ function squareroot(a) {
             console.log("Square root",b)
         }
     b++;
-    }
+    
+}
 }
 squareroot(64);
